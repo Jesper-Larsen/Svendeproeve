@@ -52,7 +52,7 @@
                         @endif
                         @else
                         <li class="nav-item">
-                            <a class="nav-link" href="https://drive.google.com/file/d/1NEdhgqMLAf6NenPLleWWLze7R_VpBHaG/view?usp=sharing">{{ __('Download') }}</a>
+                            <a class="nav-link" href="https://drive.google.com/file/d/14Ca8n845EQfMsi_WSKoolMxTj8n-kc14/view?usp=sharing">{{ __('Download') }}</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/posts">{{ __('Posts') }}</a>
